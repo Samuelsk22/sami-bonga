@@ -1,0 +1,2 @@
+# sami-bonga
+tech study
